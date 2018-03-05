@@ -48,7 +48,7 @@
   },
   "peerDependencies": {
     "grunt": ">=0.4.x || ^1.0.0",
-    "karma": "^0.13.0 || ^1.0.0"
+    "karma": "^0.13.0 || ^1.0.0 || ^2.0.0"
   },
   "contributors": [
     "Dave Geddes <davidcgeddes@gmail.com>",
